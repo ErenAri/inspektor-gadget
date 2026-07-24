@@ -9,5 +9,6 @@
 * [Qasim Sarfraz](https://github.com/mqasimsarfraz)
 * [Claudia Marcu](https://github.com/claudiamarcubina)
 * [Matthias Bertschy](https://github.com/matthyx)
+* [Veaceslav Falico](https://github.com/vfalico)
 * [Chris Kühl](https://github.com/blixtra) (project manager)
 * [Maya Singh](https://github.com/mayasingh17) (project manager)
